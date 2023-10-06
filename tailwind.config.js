@@ -15,6 +15,7 @@ export default {
         fullwhite:'#fff',
         background:'#1f1f1f',
         blue:'#004c79',
+        hover_blue:'#0071b3',
         light_blue:'#c3e7ff',
       },
 
